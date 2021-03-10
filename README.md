@@ -21,7 +21,8 @@ Stringency Index is missing data for following countries:
 * [Our World in Data: Methodology for calculating indices](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/index_methodology.md)
 
 **EBU links**
-* []()
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/6a57fcc436449d4eb10246c4acd4bb09/2021_21010873), 2021-03-10 ERNO region
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/6a57fcc436449d4eb10246c4acd4bb09/2021_21010870), 2021-03-10 Europe
 
 **Used by**
 * []()
