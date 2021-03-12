@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import style from './../styles/styles.less';
 
-
 // https://d3js.org/
 import * as d3 from 'd3';
 
