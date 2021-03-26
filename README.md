@@ -2,7 +2,7 @@
 
 **Live demo** https://ebuddj.github.io/2021-covid19actions/
 
-## Covid19 actions versus confirmed cases (EBU)
+## Covid-19 actions versus confirmed cases (EBU)
 
 The graph shows the Covid-19 stringency index and confirmed cases for European countries. The Stringency Index is defined [here](https://ourworldindata.org/covid-government-stringency-index). The data comes from Our World in Data. 
 
