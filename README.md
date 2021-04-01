@@ -25,7 +25,7 @@ Stringency Index is missing data for following countries:
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/6a57fcc436449d4eb10246c4acd4bb09/2021_21010870), 2021-03-10 Europe
 
 **Used by**
-* []()
+* [Yle/Finland](https://svenska.yle.fi/artikel/2021/03/31/vi-jamforde-smittspridning-och-restriktioner-i-olika-lander-men-manniskors) online
 
 ## How to use
 
